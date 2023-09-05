@@ -1,4 +1,4 @@
-👋 Hi, I’m @dwilliams-gs, Senior QA Automation Engineer at https://github.com/gymshark
+## 👋 Hi, I’m @dwilliams-gs, Senior QA Automation Engineer at [Gymshark](https://github.com/gymshark)
 
 <a href="https://github.com/dwilliams-gs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwilliams-gs&count_private=true" />
@@ -9,23 +9,39 @@
 
 ----
 
-🌱 I’m currently learning ...
-- Expanding my knowledge with Browserstack and understanding how we can leverage that technology to hit our key testing scope.
-- Learning all things Appium.
-- Using the Allure framework to produce useful test reporting.
-- How to write good Cucumber tests.
-- Syncronisation and concurrency.
-- Best practises in terms of coding standards. Framework architecture and maximising readability of tests, test steps and test results.
+## 🌱 I’m currently learning
 
-⚡️ Key areas of knowledge ...
+- Gaining insights into test visibility and observability across various digital products.
+- Enhancing my skills in making mobile applications (iOS and Android) more testable and exploring effective automation strategies for them.
+- Integrating automation test frameworks seamlessly into CI/CD pipelines.
+- Adhering to best practices in coding standards, framework architecture, and improving the readability of tests, test steps, and test results.
+- Learning techniques to reduce test flakiness and boost the stability of our automation efforts.
+- Mastering the automation of features in a fast-paced, rapidly changing environment, and optimizing processes to meet demand.
+- Developing proficiency in crafting efficient and effective CI/CD processes that demonstrate the quality of the product.
+
+## ⚡️ Key areas of knowledge
+
+### Automated Testing:
 - Selenium WebDriver
 - Cucumber
 - Java
-- Junit 4 / 5
+- TestNG
+- JUnit 4 / 5
+
+### Continuous Integration and Continuous Deployment (CI/CD):
 - Jenkins
 - CodeFresh
-- Docker
+- GitLab
+- GitHub Actions
+
+### Test Reporting:
 - Allure
 
-📫 How to reach me ... 
+### Monitoring and Performance:
+- DataDog
+
+### Containerization:
+- Docker
+
+## 📫 How to reach me 
 - Feel free to drop me an e-mail at [daniel.williams@gymshark.com](mailto:daniel.williams@gymshark.com)
