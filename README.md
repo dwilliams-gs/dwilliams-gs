@@ -1,5 +1,9 @@
 ## 👋 Hi, I’m @dwilliams-gs, Senior QA Automation Engineer at [Gymshark](https://github.com/gymshark)
 
+<a href="https://github.com/dwilliams-gs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwilliams-gs&theme=dark" />
+</a>
+
 ----
 
 🌱 I’m Currently Learning
